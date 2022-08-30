@@ -1,0 +1,1 @@
+﻿Set-MigrationEndpoint -Identity "Hybrid Migration Endpoint - EWS (Default Web Site)" -MaxConcurrentMigrations 20 -MaxConcurrentIncrementalSyncs 10
